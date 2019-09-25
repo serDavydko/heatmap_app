@@ -1,0 +1,1 @@
+export const IMG_FOLDER = 'http://smktesting.herokuapp.com/static/';
